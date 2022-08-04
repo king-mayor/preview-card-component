@@ -62,7 +62,7 @@ body {
     .container {
         flex-direction: column-reverse;
         align-items: center;
-        transform: translateY(20%);
+        transform: translateY(10%);
 
     }
     .likes {
