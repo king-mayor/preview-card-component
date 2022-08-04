@@ -31,7 +31,7 @@ body {
 }
 .container img {
     height: 300px;
-    width: 300px;
+    width: 350px;
 }
 .container {
     display: flex;
@@ -44,7 +44,7 @@ body {
     padding-left: 45px;
     margin-bottom: 4px;
     margin-right: 0;
-    width: 300px;
+    width: 350px;
 }
 .likes p{
     color: var(--main-paragraph);
@@ -55,7 +55,7 @@ body {
 }
 .likes {
     display: flex;
-    gap: 30px;
+    gap: 15px;
     margin-top: 30px;
 }
 @media all and (max-width: 900px){
